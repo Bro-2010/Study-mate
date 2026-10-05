@@ -1,0 +1,10 @@
+{
+  "name":"SHS Study Buddy",
+  "short_name":"Study Buddy",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f7fa",
+  "theme_color":"#173f5f",
+  "description":"Know what to study. Know what to do next.",
+  "icons":[]
+}
